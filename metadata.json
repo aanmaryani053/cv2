@@ -1,0 +1,6 @@
+{
+  "name": "Aan Maryani - Agen Pulsa & Pembayaran Tagihan Listrik PPOB",
+  "description": "Portofolio & Layanan Resmi Aan Maryani: Agen Pulsa & Kuota All Operator, Token Listrik PLN, Pembayaran BPJS, PDAM, Top-up E-Wallet, dan Transfer Bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
